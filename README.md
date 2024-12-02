@@ -1,1 +1,1 @@
-# rag-with-gemini
+# Rag-with-gemini
